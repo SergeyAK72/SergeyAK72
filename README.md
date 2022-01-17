@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SergeyAK72
+- 👋 Hi, I’m Sergey
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning SQL, UML, GIT etc.
 - 💞️ I’m looking to collaborate on ...
